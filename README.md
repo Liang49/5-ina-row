@@ -1,2 +1,2 @@
-# 5-ina-row
+# 5-in-a-row
 Created with CodeSandbox
